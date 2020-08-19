@@ -14,8 +14,6 @@
 - 🔭 I’m currently working on **too many side projects.**
 - 🌱 I’m currently learning about **self-driving cars, fuzzers, and NLP.**
 
-<br>
-
 ---
 
 [<img src="https://img.shields.io/badge/mufeedvh%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/mufeedvh) [<img src="https://img.shields.io/badge/mufeedvh%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/mufeedvh)
