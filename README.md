@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on **too many side projects.**
-- 🌱 I’m currently learning about **self-driving cars, fuzzers, and NLP.**
+- 🌱 I’m currently learning about **self-driving cars, kernels, fuzzers, and NLP.**
 
 ---
 
