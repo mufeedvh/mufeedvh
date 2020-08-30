@@ -1,4 +1,4 @@
-## Yo! I'm Mufeed. :wave:
+## Hi! I'm Mufeed. :wave:
 
 <p align="left">
   <a href="https://www.mufeedvh.com">Website</a> •
