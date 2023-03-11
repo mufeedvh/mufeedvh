@@ -1,16 +1,15 @@
-### Hi there 👋
+i [make](https://www.mufeedvh.com/projects/). i [break](https://www.mufeedvh.com/about/). i [solve](https://lyminal.space/solve/) problems at [lyminal.space](https://lyminal.space/).
 
-<!--
-**mufeedvh/mufeedvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+reach out:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+mufeed [at] lyminal [dot] space
+```
+
+pgp fingerprint:
+
+```
+49B7 4F49 C33A 02A9 7536 257F 45BE E76A 9562 CB5E
+```
