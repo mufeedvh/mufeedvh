@@ -1,11 +1,11 @@
-i [make](https://www.mufeedvh.com/projects/). i [break](https://www.mufeedvh.com/about/). i [solve](https://lyminal.space/solve/) problems at [lyminal.space](https://lyminal.space/).
+i [make](https://www.mufeedvh.com/projects/). i [break](https://www.mufeedvh.com/about/). i [solve](https://lyminal.space/solve/) problems at [lyminal.space](https://lyminal.space/). computer witchcraft at [stition.ai](https://stition.ai).
 
 ----
 
 reach out:
 
 ```
-mufeed [at] lyminal [dot] space
+mufeed [at] stition [dot] ai
 ```
 
 pgp fingerprint:
