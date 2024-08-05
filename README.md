@@ -1,11 +1,11 @@
-i [make](https://www.mufeedvh.com/projects/). i [break](https://www.mufeedvh.com/about/). computer witchcraft at [stition.ai](https://stition.ai).
+i [make](https://www.mufeedvh.com/projects/). i [break](https://www.mufeedvh.com/about/). computer witchcraft at [asterisk.so](https://asterisk.so).
 
 ----
 
 reach out:
 
 ```
-mufeed [at] stition [dot] ai
+mufeed [at] asterisk [dot] so
 ```
 
 pgp fingerprint:
